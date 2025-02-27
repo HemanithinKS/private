@@ -1,0 +1,3 @@
+Bill for Customer ID: 102
+Data: 500 units @ 0.1/unit = $50.0
+Total Amount Due: $50.0

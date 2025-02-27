@@ -1,0 +1,4 @@
+Bill for Customer ID: 103
+Call: 20 units @ 0.05/unit = $1.0
+SMS: 10 units @ 0.01/unit = $0.1
+Total Amount Due: $1.1
